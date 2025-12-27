@@ -1,0 +1,45 @@
+## Problem Framing Canvas Template
+
+<!--
+Based on the session context, frame the problem from the persona perspective, enumerate context & constraints from a JTBD perspective,
+and create a single sentence providing a powerful and empathetic summary narrative.
+
+If the user has not provided enough context, the session agent of the generative AI chatbot should ask a series of questions to
+obtain the context needed to fill in the blanks of the template.
+-->
+
+### Problem Framing Narrative
+
+<!-- Fill out from the persona's point-of-view -->
+
+**I am**: [Describe the key persona experiencing the problem, highlighting 3 to 4 key points about their interaction with the problem]
+- [Key pain point or characteristic about the persona's underserved need 1].
+- [Key pain point or characteristic about the persona's underserved need 2].
+- [Key pain point or characteristic about the persona's underserved need 3].
+
+**Trying to**: 
+- [A single sentence that lists the desired outcomes the key persona cares most about].
+
+**But**: 
+- [Describe the barriers preventing the persona from achieving the desired outcomes]
+- [Job-to-be-done or outcome obstruction 1].
+- [Job-to-be-done or outcome obstruction 2].
+- [Job-to-be-done or outcome obstruction 3].
+
+**Because**: 
+- [Seek to describe the root cause of the problem or barrier empathetically].
+
+**Which makes me feel**: 
+- [Describe the emotions felt from the key persona's perspective].
+
+### Context & Constraints 
+
+<!-- Enumerate some of the context and constraints facing the persona(s) -->
+
+- [Enumerate the context and constraints facing the persona(s), including geographic, technological, time-based, or demographic factors.]
+
+### Final Problem Statement
+
+<!-- Create a single, concise statement that provides a powerful and empathetic summary narrative of the problem -->
+
+- [Create a single, concise statement that provides a powerful and empathetic summary narrative of the problem to be shared with stakeholders, customers, engineering, UX, etc.]
