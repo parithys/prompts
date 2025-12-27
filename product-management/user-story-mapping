@@ -1,0 +1,37 @@
+## User Story Map Template
+
+### Who
+
+#### Segment:
+<!-- Define the user segment targeted by this initiative. -->
+- [Specify the target segment here]
+
+#### Persona:
+<!-- Provide a detailed description of the persona within this segment. -->
+- [Describe the persona and their key characteristics here]
+
+### Backbone
+
+#### Narrative:
+<!-- Outline the primary narrative or goal of the persona, framed by their jobs-to-be-done. -->
+- [Insert the concise narrative of the persona’s objective here]
+
+#### Activities:
+<!-- List 3 to 5 key activities the persona engages in to fulfill the narrative's goals. -->
+1. [Describe Activity 1]
+2. [Describe Activity 2]
+3. [Continue as necessary for up to 5 activities]
+
+#### Steps:
+<!-- For each activity, break down into 3 to 5 steps to detail how each activity is carried out. -->
+For [Activity 1]:
+- Step 1: [Detail Step 1 for Activity 1]
+- Step 2: [Detail Step 2 for Activity 1]
+... [Continue for 3 to 5 steps per activity]
+
+#### Tasks:
+<!-- For each step, enumerate 5 to 7 tasks undertaken to complete the step and thus contribute to the activity’s completion. -->
+For [Activity 1, Step 1]:
+- Task 1: [Detail Task 1 for Step 1 of Activity 1]
+- Task 2: [Detail Task 2 for Step 1 of Activity 1]
+... [Continue for 5 to 7 tasks per step]
